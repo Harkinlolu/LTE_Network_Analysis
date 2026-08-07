@@ -1,5 +1,5 @@
 # 📡 Machine Learning-Based LTE Network Optimisation
-This project applies machine learning to analyse LTE radio coverage data, uncover patterns in signal quality, and build predictive models for network performance optimisation.
+This project applies machine learning using python to analyse LTE radio coverage data, uncover patterns in signal quality, and build predictive models for network performance optimisation.
 Using clustering, classification, and evolutionary optimisation techniques, the project transforms raw LTE measurements into actionable insights for improving Quality of Service (QoS) and user experience.
 
 ## 📋 Project Overview
